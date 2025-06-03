@@ -4,4 +4,4 @@ Key Features:
 1. High frequency enabled due to paraller computing technique employment.
 2. Deployed State Machine based RTL design.
 
-. This random number generator is part of a PUF design for hardware security.
+This random number generator is part of a PUF design for hardware security.
