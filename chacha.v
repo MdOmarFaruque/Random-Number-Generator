@@ -123,11 +123,6 @@ module chacha(
      end
      
     
-    generate
-         if(initiate) begin
-            
-            
-         end
-    endgenerate
+    
 
 endmodule
